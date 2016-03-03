@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Find Me</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="Message">Message</string>
+    <string name="Email">Email</string>
+    <string name="Other">Other</string>
+    <string name="asDestination">as destination</string>
+    <string name="traffic">Traffic</string>
+    <string name="satellite">Satellite</string>
+    <string name="terrain">Terrain</string>
+</resources>
